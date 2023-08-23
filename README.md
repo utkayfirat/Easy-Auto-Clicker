@@ -1,2 +1,2 @@
-# Easy-Auto-Clicker
+# UFS Auto Clicker
  A simple program that works with the F1 key...

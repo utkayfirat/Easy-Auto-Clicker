@@ -1,0 +1,11 @@
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\bin\Debug\UFS_Auto_Clicker.exe.config
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\bin\Debug\UFS_Auto_Clicker.exe
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\bin\Debug\UFS_Auto_Clicker.pdb
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\obj\Debug\UFS_Auto_Clicker.csproj.AssemblyReference.cache
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\obj\Debug\UFS_Auto_Clicker.csproj.SuggestedBindingRedirects.cache
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\obj\Debug\UFS_Auto_Clicker.Form1.resources
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\obj\Debug\UFS_Auto_Clicker.Properties.Resources.resources
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\obj\Debug\UFS_Auto_Clicker.csproj.GenerateResource.cache
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\obj\Debug\UFS_Auto_Clicker.csproj.CoreCompileInputs.cache
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\obj\Debug\UFS_Auto_Clicker.exe
+E:\MVS2022\UFS_Auto_Clicker\UFS_Auto_Clicker\obj\Debug\UFS_Auto_Clicker.pdb
